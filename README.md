@@ -1,5 +1,5 @@
 # TP_Note_Python
 
-## Delamarre
+Delamarre
 
-## Paul
+Paul
